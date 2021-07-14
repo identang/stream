@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Refactor",
+      "description": "refactor",
+      "id": 1
+    },
+    {
+      "title": "Patch request",
+      "description": "Update some of the properties only",
+      "id": 2
+    },
+    {
+      "title": "Test 6",
+      "description": "Test6",
+      "userId": "105394138953454483186",
+      "id": 6
+    },
+    {
+      "title": "Reuse the component",
+      "description": "I am reusing the component",
+      "userId": "105394138953454483186",
+      "id": 7
+    }
+  ]
+}
